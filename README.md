@@ -3,19 +3,18 @@
 
 My focus for this project was on the robotic manpulation side, specfically how to make the robot move effecianly with MoveIt!. I also worked closely with Yael Ben Shalom to properly integrate the robotic manipulation with the computer vision. The nodes I worked direclty on are the recycle.py and disp_img.py nodes
 
-### Group Members: Kailey Smith, Yael Ben Shalom, Jake Ketchum, Mingqing Yuan and Chris Aretakis
+Group Members: Kailey Smith, Yael Ben Shalom, Jake Ketchum, Mingqing Yuan and Chris Aretakis
 
 ## Project Overview
 In this project, we programmed a Rethink Baxter robot to sort bottles and cans located in front of it, and drop them into separate recycle bins. We used computer vision to detect and locate a couple of randomly placed bottles and cans, and used MoveIt to control the robot.
 
-A Google slides presentation summarizing the project can also be viewed [here](https://docs.google.com/presentation/d/1T56hbLROX8WcPCFQQ3-daPc4Sb6g7DFvq7fUSDCqaT0/edit?usp=sharing)
+A Google slides presentation summarizing the project can also be viewed [here](https://docs.google.com/presentation/d/1T56hbLROX8WcPCFQQ3-daPc4Sb6g7DFvq7fUSDCqaT0/edit?usp=sharing).
 
-
-The Baxter Robot (Scott's Bot) in action:
+The Baxter Robot in action:
 
 ![Sorting](https://github.com/ME495-EmbeddedSystems/final-project-scott-s-bot-for-tots/blob/master/videos/Baxter_sorting.gif)
 
-View the full demo [here](https://drive.google.com/file/d/10anAmP4I5A87bw1hqXWV8cNA236D1xCu/view?usp=sharing):
+View the full demo [here](https://drive.google.com/file/d/10anAmP4I5A87bw1hqXWV8cNA236D1xCu/view?usp=sharing).
 
 ## User Guide
 
