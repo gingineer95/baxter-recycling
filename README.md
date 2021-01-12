@@ -1,13 +1,9 @@
-# Recycle Sorting Baxter
+# Baxter Recycling Segmentation
 ## ME495: Embedded Systems Final Project (Fall 2020)
 
-## Group Members:
-- Chris Aretakis
-- Jake Ketchum
-- Yael Ben Shalom
-- Kailey Smith
-- Mingqing Yuan
+My focus for this project was on the robotic manpulation side, specfically how to make the robot move effecianly with MoveIt!. I also worked closely with Yael Ben Shalom to properly integrate the robotic manipulation with the computer vision. The nodes I worked direclty on are the recycle.py and disp_img.py nodes
 
+### Group Members: Kailey Smith, Yael Ben Shalom, Jake Ketchum, Mingqing Yuan and Chris Aretakis
 
 ## Project Overview
 In this project, we programmed a Rethink Baxter robot to sort bottles and cans located in front of it, and drop them into separate recycle bins. We used computer vision to detect and locate a couple of randomly placed bottles and cans, and used MoveIt to control the robot.
